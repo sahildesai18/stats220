@@ -2,7 +2,7 @@
 
 ## Welcome To My Repo
 
-** This is for my stats220 course work throught out the semester.**
+**This is for my stats220 course work throught out the semester.**
 
 *Things will frequently be added to this repo.*
 
